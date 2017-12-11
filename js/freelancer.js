@@ -49,6 +49,9 @@
   // Collapse the navbar when page is scrolled
   $(window).scroll(navbarCollapse);
 
+  // Tooltip shows name of the dev icons
+    $('[data-toggle="tooltip"]').tooltip();
+
   // Modal popup$(function () {
   $('.portfolio-item').magnificPopup({
     type: 'inline',

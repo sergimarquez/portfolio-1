@@ -283,3 +283,12 @@ a {
   .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
     background-color: #1a252f;
     border-color: #1a252f; }
+
+
+/*Styling for the developer icons*/
+
+.list-icons {
+  font-size: 3.5rem; }
+  .list-icons .list-inline-item i:hover {
+    transition: all 300ms;
+    color: #BD5D38; }
