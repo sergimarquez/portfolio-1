@@ -285,10 +285,11 @@ a {
     border-color: #1a252f; }
 
 
-/*Styling for the developer icons*/
+/*Styling for the devicons*/
 
 .list-icons {
   font-size: 3.5rem; }
   .list-icons .list-inline-item i:hover {
     transition: all 300ms;
-    color: #BD5D38; }
+    color: #18BC9C; }
+
