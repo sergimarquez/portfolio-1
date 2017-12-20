@@ -28,6 +28,15 @@ a {
   color: $secondary !important;
 }
 
+a:focus {
+  outline: none;
+}
+
+.btn, .btn:focus, .btn:active {
+  outline: none;
+  box-shadow: none;
+}
+
 .btn-primary {
   background-color: $primary;
   border-color: $primary;
